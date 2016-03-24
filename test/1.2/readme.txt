@@ -1,1 +1,0 @@
-DITA 1.2 materials.

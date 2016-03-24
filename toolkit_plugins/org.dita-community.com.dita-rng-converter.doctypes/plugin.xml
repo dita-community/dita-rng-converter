@@ -1,6 +1,0 @@
-<!-- ====================================
-     Document types for DITA RNG Grammars
-     ==================================== -->
-<plugin id="org.dita-community.com.dita-rng-converter.doctypes">
-  <feature extension="dita.specialization.catalog.relative" value="catalog.xml" type="file"/>
-</plugin>
